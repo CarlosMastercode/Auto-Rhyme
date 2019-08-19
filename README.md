@@ -1,2 +1,2 @@
 # Auto-Rhyme
-Make a rhyme on the fly using Datamuse
+API sample for Datamuse.com
